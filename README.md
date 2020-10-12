@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+[LIVE DEMO](https://muhammadharis2.github.io/Discord-clone/)
+
 ## Available Scripts
 
 In the project directory, you can run:
